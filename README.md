@@ -1,5 +1,5 @@
 # DAW_Mini_Projet
-Created By: Hanine Merzougui - Oumnia Boudersa
+Created By: Oumnia Boudersa- Hanine Merzougui 
 #
 #Description
 #
